@@ -6,7 +6,7 @@
     Meu primeiro contato com a programação não foi dos melhores, porém, a curiosidade e o interesse na área me motivaram a continuar. Atualmente, estou sempre em busca de aprimoramento e evolução profissional.
   </p>
   <p>
-    Atualmente, trabalho na <strong>V4 Company</strong>, onde iniciei como estagiário e, após dois anos de intenso aprendizado, fui <strong>efetivado este ano</strong>.
+    Atualmente, trabalho na <strong>V4 Company</strong>, onde iniciei como estagiário e, após dois anos de intenso aprendizado, fui <strong>efetivado em 2025</strong>.
     Minha atuação inclui:
   </p>
   <ul>
