@@ -38,14 +38,6 @@
 
   <hr>
 
-  <h2>📈 Estatísticas do GitHub</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArturdaSilva&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturdaSilva&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
-  </div>
-
-  <hr>
-
   <h2>📬 Contato</h2>
   <p>
     📩 <strong>E-mail profissional:</strong> <a href="mailto:artur.silva.work01@gmail.com">artur.silva.work01@gmail.com</a><br>
